@@ -1,0 +1,15 @@
+[
+  {
+    "id": "esan",
+    "name": "Universidad ESAN",
+    "country": "Perú",
+    "city": "Lima",
+    "academicRules": {
+      "maxCreditsNormal": 22,
+      "maxCreditsSpecial": 24,
+      "specialCreditsRequirement": {
+        "minimumAverage": 17
+      }
+    }
+  }
+]

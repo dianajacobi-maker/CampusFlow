@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "CampusFlow",
+    "slogan": "El mapa inteligente de tu carrera.",
+    "version": "0.1.0",
+    "environment": "prototype"
+  },
+
+  "academic": {
+    "defaultCreditLimit": 22,
+    "specialCreditLimit": 24,
+    "specialCreditRequirementAverage": 17
+  },
+
+  "courseStates": {
+    "approved": {
+      "label": "Aprobado",
+      "color": "green"
+    },
+    "available": {
+      "label": "Disponible",
+      "color": "blue"
+    },
+    "inProgress": {
+      "label": "En curso",
+      "color": "yellow"
+    },
+    "blocked": {
+      "label": "Bloqueado",
+      "color": "gray"
+    },
+    "failed": {
+      "label": "Desaprobado",
+      "color": "red"
+    }
+  },
+
+  "features": {
+    "dashboard": true,
+    "interactiveCurriculum": true,
+    "prerequisiteSystem": true,
+    "creditCalculator": true,
+    "recommendations": true,
+    "aiAssistant": false
+  }
+}

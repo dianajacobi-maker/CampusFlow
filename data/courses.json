@@ -1,0 +1,302 @@
+[
+  {
+    "id": "comunicacion-literatura-1",
+    "careerId": "software-engineering",
+    "name": "Comunicación y Literatura I",
+    "cycle": 1,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Humanidades",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "filosofia-etica",
+    "careerId": "software-engineering",
+    "name": "Filosofía y Ética",
+    "cycle": 1,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Humanidades",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "precalculo",
+    "careerId": "software-engineering",
+    "name": "Precálculo",
+    "cycle": 1,
+    "credits": 4,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "programacion",
+    "careerId": "software-engineering",
+    "name": "Programación",
+    "cycle": 1,
+    "credits": 5,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Programación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "sistemas-operativos-1",
+    "careerId": "software-engineering",
+    "name": "Sistemas Operativos I",
+    "cycle": 1,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Computación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "taller-desarrollo-competencias-personales-1",
+    "careerId": "software-engineering",
+    "name": "Taller: Desarrollo de Competencias Personales I",
+    "cycle": 1,
+    "credits": 1,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Desarrollo Personal",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+    {
+    "id": "algoritmos-estructura-datos",
+    "careerId": "software-engineering",
+    "name": "Algoritmos y Estructura de Datos",
+    "cycle": 2,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Programación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "arquitectura-computador-1",
+    "careerId": "software-engineering",
+    "name": "Arquitectura del Computador I",
+    "cycle": 2,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Computación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "calculo-1",
+    "careerId": "software-engineering",
+    "name": "Cálculo I",
+    "cycle": 2,
+    "credits": 5,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "estadistica-1",
+    "careerId": "software-engineering",
+    "name": "Estadística I",
+    "cycle": 2,
+    "credits": 4,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "ingenieria-requerimientos",
+    "careerId": "software-engineering",
+    "name": "Ingeniería de Requerimientos",
+    "cycle": 2,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Ingeniería de Software",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "matematica-discreta",
+    "careerId": "software-engineering",
+    "name": "Matemática Discreta",
+    "cycle": 2,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "taller-desarrollo-competencias-profesionales-1",
+    "careerId": "software-engineering",
+    "name": "Taller: Desarrollo de Competencias Profesionales I",
+    "cycle": 2,
+    "credits": 1,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Desarrollo Personal",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+    {
+    "id": "analisis-diseno-algoritmos",
+    "careerId": "software-engineering",
+    "name": "Análisis y Diseño de Algoritmos",
+    "cycle": 3,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Programación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "calculo-2",
+    "careerId": "software-engineering",
+    "name": "Cálculo II",
+    "cycle": 3,
+    "credits": 5,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "estadistica-2",
+    "careerId": "software-engineering",
+    "name": "Estadística II",
+    "cycle": 3,
+    "credits": 4,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Matemática",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "fisica-1",
+    "careerId": "software-engineering",
+    "name": "Física I",
+    "cycle": 3,
+    "credits": 4,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Ciencia",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "ingenieria-procesos-negocio",
+    "careerId": "software-engineering",
+    "name": "Ingeniería de Procesos de Negocio",
+    "cycle": 3,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Ingeniería de Software",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "programacion-orientada-objetos",
+    "careerId": "software-engineering",
+    "name": "Programación Orientada a Objetos",
+    "cycle": 3,
+    "credits": 3,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Programación",
+    "type": "Obligatorio",
+    "difficulty": null
+  },
+  {
+    "id": "taller-desarrollo-competencias-personales-2",
+    "careerId": "software-engineering",
+    "name": "Taller: Desarrollo de Competencias Personales II",
+    "cycle": 3,
+    "credits": 1,
+    "hours": {
+      "theory": null,
+      "practice": null,
+      "laboratory": null
+    },
+    "category": "Desarrollo Personal",
+    "type": "Obligatorio",
+    "difficulty": null
+  }
+  ]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "software-engineering",
+    "universityId": "esan",
+    "name": "Ingeniería de Software",
+    "durationCycles": 10,
+    "totalCredits": null,
+    "description": "Carrera orientada al diseño, desarrollo y gestión de soluciones de software."
+  }
+]

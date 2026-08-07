@@ -1,0 +1,87 @@
+{
+  "student": {
+    "name": "Estudiante Demo",
+    "career": "Ingeniería de Software",
+    "currentCycle": 2
+  },
+
+  "progress": {
+    "completedCourses": 5,
+    "totalCourses": 60,
+    "completedCredits": 16,
+    "totalCredits": null,
+    "percentage": 8.3
+  },
+
+  "academicSummary": {
+    "average": 17.5,
+    "normalCreditLimit": 22,
+    "specialCreditLimit": 24,
+    "specialLoadAvailable": true
+  },
+
+  "currentSemester": {
+    "courses": [
+      {
+        "name": "Cálculo I",
+        "credits": 5,
+        "status": "in-progress"
+      },
+      {
+        "name": "Estadística I",
+        "credits": 4,
+        "status": "in-progress"
+      }
+    ],
+    "totalCredits": 9
+  },
+
+  "availableCourses": [
+    {
+      "name": "Algoritmos y Estructura de Datos",
+      "credits": 3,
+      "reason": "Programación aprobada"
+    },
+    {
+      "name": "Arquitectura del Computador I",
+      "credits": 3,
+      "reason": "Programación aprobada"
+    },
+    {
+      "name": "Ingeniería de Requerimientos",
+      "credits": 3,
+      "reason": "Programación aprobada"
+    },
+    {
+      "name": "Matemática Discreta",
+      "credits": 3,
+      "reason": "Precálculo aprobado"
+    }
+  ],
+
+  "blockedCourses": [
+    {
+      "name": "Análisis y Diseño de Algoritmos",
+      "required": "Algoritmos y Estructura de Datos"
+    },
+    {
+      "name": "Cálculo II",
+      "required": "Cálculo I"
+    },
+    {
+      "name": "Estadística II",
+      "required": "Estadística I"
+    }
+  ],
+
+  "recommendations": [
+    {
+      "type": "academic",
+      "message": "Tu promedio permite solicitar hasta 24 créditos con autorización."
+    },
+    {
+      "type": "planning",
+      "message": "Prioriza Algoritmos y Estructura de Datos porque desbloquea cursos futuros."
+    }
+  ]
+}

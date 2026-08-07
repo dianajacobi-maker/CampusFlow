@@ -1,0 +1,67 @@
+[
+  {
+    "id": "prereq-001",
+    "courseId": "algoritmos-estructura-datos",
+    "requiredCourseId": "programacion"
+  },
+  {
+    "id": "prereq-002",
+    "courseId": "arquitectura-computador-1",
+    "requiredCourseId": "programacion"
+  },
+  {
+    "id": "prereq-003",
+    "courseId": "calculo-1",
+    "requiredCourseId": "precalculo"
+  },
+  {
+    "id": "prereq-004",
+    "courseId": "estadistica-1",
+    "requiredCourseId": "precalculo"
+  },
+  {
+    "id": "prereq-005",
+    "courseId": "matematica-discreta",
+    "requiredCourseId": "precalculo"
+  },
+  {
+    "id": "prereq-006",
+    "courseId": "ingenieria-requerimientos",
+    "requiredCourseId": "programacion"
+  },
+  {
+    "id": "prereq-007",
+    "courseId": "analisis-diseno-algoritmos",
+    "requiredCourseId": "algoritmos-estructura-datos"
+  },
+  {
+    "id": "prereq-008",
+    "courseId": "calculo-2",
+    "requiredCourseId": "calculo-1"
+  },
+  {
+    "id": "prereq-009",
+    "courseId": "estadistica-2",
+    "requiredCourseId": "estadistica-1"
+  },
+  {
+    "id": "prereq-010",
+    "courseId": "fisica-1",
+    "requiredCourseId": "precalculo"
+  },
+  {
+    "id": "prereq-011",
+    "courseId": "ingenieria-procesos-negocio",
+    "requiredCourseId": "ingenieria-requerimientos"
+  },
+  {
+    "id": "prereq-012",
+    "courseId": "programacion-orientada-objetos",
+    "requiredCourseId": "algoritmos-estructura-datos"
+  },
+  {
+    "id": "prereq-013",
+    "courseId": "taller-desarrollo-competencias-personales-2",
+    "requiredCourseId": "taller-desarrollo-competencias-personales-1"
+  }
+]

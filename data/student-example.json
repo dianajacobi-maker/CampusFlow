@@ -1,0 +1,53 @@
+{
+  "id": "student-001",
+  "name": "Estudiante Demo",
+  "universityId": "esan",
+  "careerId": "software-engineering",
+
+  "currentCycle": 2,
+
+  "academicInfo": {
+    "currentAverage": 17.5,
+    "approvedCredits": 16,
+    "totalCreditsCompleted": 16
+  },
+
+  "completedCourses": [
+    {
+      "courseId": "comunicacion-literatura-1",
+      "grade": 18,
+      "status": "approved"
+    },
+    {
+      "courseId": "filosofia-etica",
+      "grade": 17,
+      "status": "approved"
+    },
+    {
+      "courseId": "precalculo",
+      "grade": 16,
+      "status": "approved"
+    },
+    {
+      "courseId": "programacion",
+      "grade": 18,
+      "status": "approved"
+    },
+    {
+      "courseId": "taller-desarrollo-competencias-personales-1",
+      "grade": 19,
+      "status": "approved"
+    }
+  ],
+
+  "currentCourses": [
+    {
+      "courseId": "calculo-1",
+      "status": "in-progress"
+    },
+    {
+      "courseId": "estadistica-1",
+      "status": "in-progress"
+    }
+  ]
+}
